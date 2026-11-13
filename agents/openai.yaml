@@ -1,0 +1,4 @@
+interface:
+  display_name: "纬地道路三维建模"
+  short_description: "从纬地路线、横断面和控制数据生成带属性的Blender道路模型"
+  default_prompt: "使用 $hintcad-blender，根据我提供的纬地项目数据生成路线、路面、边坡、水沟及填挖渐变三维模型。"
